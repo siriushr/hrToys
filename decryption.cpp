@@ -2,7 +2,7 @@
 #include <stdlib.h> 
 #include <string.h> 
 
-#define KEY 729520 // 解密密码 
+#define KEY 222220 // 解密密码 
 #define FILE_NAME_MAX_SIZE 100 // 文件名长度 
 
 // 变换法则 
